@@ -1,0 +1,20 @@
+happy,delighted pleased or glad,characterized by or indicative of pleasure
+lucky,happening fortunately,bringing or foretelling good luck
+sound,the sensation produced by stimulation of the organs of hearing by vibrations transmitted through the air or other medium,to gove forth
+bear,to hold up,to hold or remain firm under
+bear,to hold up,to hold or remain firm under
+dictionary,a book giving information on particular subjects or on a particular class of words names or facts usually arranged alphabetically,a list of words used by a word-processing program as the standard against which to check the spelling of text entered
+keys,a small metal instrument specially cut to fit into a lock and move its bolt,something that affords a mean of access
+program,a plan of action to accomplish a specified end,a precise sequence of instructions enabling a computer to perform a task
+program,a plan of action to accomplish a specified end,a precise sequence of instructions enabling a computer to perform a task
+program,a plan of action to accomplish a specified enda pr,ecise sequence of instructions enabling a computer to perform a task
+processes,a systematic series of actions directed to some end,the condition of being carried on
+processes,a systematic series of actions directed to some end,the condition of being carried on
+book,compilation of pages,read material
+book,compilation of pages,read material
+book,compilation of pages,read material
+book,compilation of pages,read material
+book,compilation of pages,read material
+class,thing in c,where students learn
+book,compilation of pages,read material
+book,compilation of pages,read material
